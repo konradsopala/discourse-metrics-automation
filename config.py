@@ -5,7 +5,7 @@ Metrics are executed in this order as they are stored in such order in Metrics S
 
 153 - Some Random Data Explorer Query Name One: https://yourDiscourseForumSite.com/admin/plugins/explorer?id=153
 154 - Some Random Data Explorer Query Name Two: https://yourDiscourseForumSite.com/admin/plugins/explorer?id=154
-150 - Some Random Data Explorer Query Name Two: https://yourDiscourseForumSite.com/admin/plugins/explorer?id=150
+150 - Some Random Data Explorer Query Name Three: https://yourDiscourseForumSite.com/admin/plugins/explorer?id=150
 ...
 
 All queries IDs in the order they are stored in Metrics Spreadsheet:
