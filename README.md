@@ -48,7 +48,7 @@ Only official Google client libraries were used for that implementation. Followi
 * Go to your metrics spreadsheet and share it with the email that just got created in service account section of Google Developer Console
 * Open the service account we just created and in the Keys section add key (credentials in a form of .json file)
 
-In order to run the script, you'll need the credentials for Google Sheets API. To get them you need to follow these steps:
+If you'd like others in your team to run the script, they'll need the credentials for Google Sheets API. To get them you need to follow these steps:
 
 * Login to https://console.cloud.google.com/ with your email
 * Select your project at the top
